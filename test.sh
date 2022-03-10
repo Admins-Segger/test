@@ -1,0 +1,2 @@
+echo Segger
+echo Test
